@@ -1,5 +1,5 @@
 # [Flex Panel Image Gallery](http://travis.bingo/flexPanels/)
-Image gallery app with Flexbox and CSS animations.
+Image gallery app with Flexbox and CSS transitions. Click panels for animation.
 
 * Nested Flex containers
 * Animating (transitioning) the flex property
