@@ -1,4 +1,4 @@
-# Flex Panel Image Gallery
+# [Flex Panel Image Gallery](http://travis.bingo/flexPanels/)
 Image gallery app with Flexbox and CSS animations.
 
 * Nested Flex containers
